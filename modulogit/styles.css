@@ -1,0 +1,81 @@
+#n1 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    border: 0px;
+    border-radius: 10px;
+    color: coral;
+    background-color: coral;
+    font-size: 150px;
+    text-align: center;
+    justify-content: center;
+    margin-right: 20px;
+    line-height: 200px;
+
+}
+
+#n2 {
+
+    width: 200px;
+    height: 200px;
+    border: 0px;
+    border-radius: 20px;
+    background-color: teal;
+    color: white;
+    border-radius: 10px;
+    margin-top: 5px;
+    line-height: 200px;
+
+    font-size: 150px;
+    text-align: center;
+    justify-content: right;
+
+}
+
+button {
+    margin-right: 50px;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    font-weight: bold;
+    background-color: teal;
+    color: white;
+
+}
+
+.bt1:hover {
+    background-color: #06303a;
+}
+
+#n2:hover {
+    background-color: #06303a;
+}
+
+#n1:hover {
+    color: rgba(255, 255, 255, 0.158);
+}
+
+h2 {
+    /* position: absolute; */
+    background-color: pink;
+    border-radius: 20px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+.errou {
+    margin-left: 100px;
+    background-color: yellow;
+    border-radius: 20px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+h3 {
+    margin-left: 190px;
+}
